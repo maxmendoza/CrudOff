@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="_100221Cliente:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>_100221Cliente</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="_100221Cliente-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="_100221Cliente:war exploded" />
+    </root>
+  </artifact>
+</component>
